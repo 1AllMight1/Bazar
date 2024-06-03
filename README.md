@@ -1,0 +1,3 @@
+This project was made using multiple external sources.
+As a base I started with adding the Home page.
+I decided to divide the key parts of the project into features and components for better usage. After this, I started by step by step creating on each component of the project and I used several tutorials as a help to understand how to create the project. Due to low amount of time I was not able to make the code 100% unique, but the structure was made by me. I still have a huge bug which makes all the components just sit on each other, but other parts should work fine.
